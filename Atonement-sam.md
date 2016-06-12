@@ -18,13 +18,19 @@ Consider these collisions:
 
 ![](https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
 
+https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
+
 ##### Curling
 
 ![](http://i.imgur.com/SPa32Jb.gif)
 
+http://i.imgur.com/SPa32Jb.gif
+
 #### Velcro Wall
 
 ![](http://stream1.gifsoup.com/view5/4183189/velcro-wall-o.gif)
+
+http://stream1.gifsoup.com/view5/4183189/velcro-wall-o.gif
 
 The avalanche has the falling rock collides with other rock, gathering mass and velocity, **increasing momentum** as it rolls down the mountain.
 
