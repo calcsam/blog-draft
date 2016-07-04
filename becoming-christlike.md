@@ -1,4 +1,4 @@
-*Given at my conference as a missionary, somewhere in Asia, January 2009*
+*Given at my first conference as a missionary, somewhere in Asia, January 2009*
 
 What is the relationship between the first principles of the gospel and Christlike attributes? We teach faith, repentance, baptism — how can this change people?
 
