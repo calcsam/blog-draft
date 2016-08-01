@@ -20,9 +20,9 @@ Consider these collisions:
 
 #### Avalanche
 
-![](https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
+![](http://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
 
-https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
+https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif
 
 The avalanche has the falling rock collides with other rock, gathering mass and velocity, **increasing momentum** as it rolls down the mountain.
 
