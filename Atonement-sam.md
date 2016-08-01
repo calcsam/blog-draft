@@ -22,6 +22,8 @@ https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
 
 The avalanche has the falling rock collides with other rock, gathering mass and velocity, **increasing momentum** as it rolls down the mountain.
 
+A father suffers physical abuse as a child, and then inflicts it on his children. "visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation...." (Exodus 34:7)
+
 ##### Billiard split
 
 ![](http://i.imgur.com/JcdXl1U.gif)
@@ -29,6 +31,8 @@ The avalanche has the falling rock collides with other rock, gathering mass and 
 http://i.imgur.com/SPa32Jb.gif
 
 The white cue ball collides with the other billiard ball triangle. Its momentum is transferred to the other balls. It stops.  **Overall momentum is constant.**
+
+A boss spills coffee on his shirt, so he yells at his secretary. Then he feels better. 
 
 #### Golf ball
 
@@ -38,17 +42,9 @@ https://adamsarson.files.wordpress.com/2013/07/07-18-13-tiger-one-knee-bunker.gi
 
 The putting green, through friction, gradually slows the rolling golf ball down, **decreasing overall momentum**.
 
-We all find ourself as players in each scenario.
-
-##### The Avalanche
-A father suffers physical abuse as a child, and then inflicts it on his children. "visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation...." (Exodus 34:7)
-
-##### The Cue Ball
-A boss spills coffee on his shirt, so he yells at his secretary. Then he feels better. 
-
-##### The Putting Green
-
 A man is going through a difficult divorce. His best friend comes over on Saturday morning and they put a new finish on the deck. They don't talk about the situation at all, but by afternoon, he feels a bit better.
+
+In different times, in different places, we find ourselves as players in each scenario.
 
 ### Comforting those in need of comfort
 
