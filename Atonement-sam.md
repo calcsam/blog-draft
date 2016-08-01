@@ -62,7 +62,7 @@ One of these rocky shores, on which our ship can wreck, is where we simply posit
 
 We absorb the chaos of others around us simply by transferring it onto ourself, without any ability to release it. Michael Austin shares a heart-wrenching story of [doing this in a pastoral capacity](https://bycommonconsent.com/2015/05/04/daniel-my-brother-the-case-for-pastoral-training-in-the-church/), with devastating results.
 
-#### Building a wall
+#### Building walls
 
 At the other edge of the channel, we wreck others when we see the Atonement, the process of dissipating pain, as something like this:
 
