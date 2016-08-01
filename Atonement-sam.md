@@ -1,4 +1,4 @@
-## The Physics Of Atonement, in Animated GIFs
+## The Physics Of Atonement
 
 We traditionally represent pain and emotional burdens as loads that we carry around with us. ([Mosiah 18:8](https://www.lds.org/scriptures/bofm/mosiah/18.8), [Matthew 11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng), etc). Physically, we represent them as mass.
 
