@@ -50,7 +50,7 @@ A man is going through a difficult divorce. His best friend comes over on Saturd
 
 In different times, in different places, we find ourselves as players in each scenario.
 
-### Comforting those in need of comfort
+### Failure cases
 
 As we seek to "mourn with those that mourn, and comfort those that stand in need of comfort" (Mosiah 18:8) we must sail our ship through a narrow passage, avoiding shoals on either side that can wreck us.
 
