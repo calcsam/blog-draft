@@ -1,4 +1,4 @@
-# The Physics Of Atonement, in Animated GIFs
+## The Physics Of Atonement, in Animated GIFs
 
 We traditionally represent pain and emotional burdens as loads that we carry around with us. ([Mosiah 18:8](https://www.lds.org/scriptures/bofm/mosiah/18.8), [Matthew 11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng), etc). Physically, we represent them as mass.
 
@@ -50,15 +50,24 @@ A boss spills coffee on his shirt, so he yells at his secretary. Then he feels b
 
 A man is going through a difficult divorce. His best friend comes over on Saturday morning and they put a new finish on the deck. They don't talk about the situation at all, but by afternoon, he feels a bit better.
 
-One danger is that, in our attempts to be the putting green,we position ourselves as billiard balls in the triangle. 
+### Comforting those in need of comfort
+
+As we seek to "mourn with those that mourn, and comfort those that stand in need of comfort" (Mosiah 18:8) we must sail our ship through a narrow passage, avoiding shoals on either side that can wreck us.
+
+One of these rocky shores, on which our ship can wreck, is where we simply position ourselves as billiard balls in the triangle. 
 
 We absorb the chaos of others around us simply by transferring it onto ourself, without any ability to release it. Michael Austin shares a heart-wrenching story of [doing this in a pastoral capacity](https://bycommonconsent.com/2015/05/04/daniel-my-brother-the-case-for-pastoral-training-in-the-church/), with devastating results.
 
-Another danger is that we see the Atonement as too magical, something like this:
+At the other edge of the channel, we wreck others when we see the Atonement, the process of dissipating pain, as something like this:
 
 ![](http://stream1.gifsoup.com/view1/4672096/matrix-bullet-stop-o.gif)
 
-Even Christ did not do this. He certainly took the world's pain on himself, but we must believe that he does not still carry it with him. He has access to some sort of friction that disspates momentum.
+Christ did not do this. He did not simply stop it in its tracks. He did not simply put upon iron walls around the pain of the world, perfectly insulating himself from it. Christ "suffer[ed] pains and afflictions and temptations of every kind" in order to "take upon him the pains and the sicknesses of his people."
 
+After his infant son died, Rabbi Harold Kushner found that many people would come to him and say, well-meaning, lines like "I'm sure he's happier now." Some of us, when we see a misfortune befall a friend, immediately jump to find the cause in something they did.
 
-When we figure out how to generate friction, to slow the pain of ourselves and others to a stop, I have a sense *that* is truly particpating in Christ's atonement.
+Do we rationalize pain in this way simply because we desire to inoculate ourself from it? 
+
+Christ created a shared space in which the pain of humanity was released. However he performed the Atonement, and however much pain he took upon himself, we must believe that He does not still carry it with him. He has access to some sort of friction that dissipates the momentum of pain.
+
+As we figure out how to generate friction, to slow the pain of ourselves and others to a stop, *that* must be truly particpating in Christ's atonement.
