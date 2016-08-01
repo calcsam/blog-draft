@@ -10,7 +10,7 @@ Rather than representing burdens or pain in units of mass (kg), I suggest we rep
 
 In addition, rather than representing our burdens and pains as separate objects from ourself, I suggest we represent them as parts of ourself.
 
-In this view, we are all objects in motion, and as we collide with each other, we transfer all of our emotions to them in some degree, our joys as well as our sorrows, though right now I'll be strictly focusing on the pain.
+In this view, we are all objects in motion, and as we collide with each others, we transfer all of our emotions to them in some degree.
 
 Consider these collisions:
 
@@ -20,55 +20,45 @@ Consider these collisions:
 
 https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
 
-##### Curling
+The avalanche has the falling rock collides with other rock, gathering mass and velocity, **increasing momentum** as it rolls down the mountain.
 
-![](http://i.imgur.com/SPa32Jb.gif)
+##### Billiard split
+
+![](http://i.imgur.com/JcdXl1U.gif)
 
 http://i.imgur.com/SPa32Jb.gif
 
-#### Velcro Wall
+The white cue ball collides with the other billiard ball triangle. Its momentum is transferred to the other balls. It stops.  **Overall momentum is constant.**
 
-![](http://stream1.gifsoup.com/view5/4183189/velcro-wall-o.gif)
+#### Golf ball
 
-http://stream1.gifsoup.com/view5/4183189/velcro-wall-o.gif
+![](https://adamsarson.files.wordpress.com/2013/07/07-18-13-tiger-one-knee-bunker.gif)
 
-The avalanche has the falling rock collides with other rock, gathering mass and velocity, **increasing momentum** as it rolls down the mountain.
+https://adamsarson.files.wordpress.com/2013/07/07-18-13-tiger-one-knee-bunker.gif
 
-The curling stone collides with other stones in a low-friction environment. Momentum is transferred between the stones, but **overall momentum is constant.**
-
-The velcro well is a high-friction environment that absorbs the impact of the jumper, **decreasing overall momentum**.
+The putting green, through friction, gradually slows the rolling golf ball down, **decreasing overall momentum**.
 
 We all find ourself as players in each scenario.
 
 ##### The Avalanche
-A father suffers physical abuse as a child, and then inflicts it on his children. He is like the avalanche. He continues to hold the pain, and in addition transfers it on. The overall amount of pain has increased.
+A father suffers physical abuse as a child, and then inflicts it on his children. "visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation...." (Exodus 34:7)
 
-##### The Curling Stone
-A boss spills coffee on his shirt, so he yells at his secretary. Then he feels better. He is like the curling ball. His pain is gone, but he's transferred it elsewhere. The overall amount of pain in the system is constant.
+##### The Cue Ball
+A boss spills coffee on his shirt, so he yells at his secretary. Then he feels better. 
 
-##### The Velcro Wall
+##### The Putting Green
 
 A man is going through a difficult divorce. His best friend comes over on Saturday morning and they put a new finish on the deck. They don't talk about the situation at all, but by afternoon, he feels a bit better.
 
+One danger is that, in our attempts to be the putting green,we position ourselves as billiard balls in the triangle. 
 
-##### Being the Velcro Wall
+We absorb the chaos of others around us simply by transferring it onto ourself, without any ability to release it. Michael Austin shares a heart-wrenching story of [doing this in a pastoral capacity](https://bycommonconsent.com/2015/05/04/daniel-my-brother-the-case-for-pastoral-training-in-the-church/), with devastating results.
 
-We all know that we're supposed to be the Velcro Wall. We're supposed to seek out others in pain, sit next to them, and make the pain go away. The risk is that we simply become the curling stone -- transferring others' pain onto ourselves without dissapating it. 
-
-We need **friction**.
-
-Certain professions have thought carefully about the art of colliding often with those in pain, without transferring the pain onto themselves. The medical professions as well as therapists stand out here.
-
-Where do Christ and the Atonment come in?
-
-Christ took upon himself all of our pains in the Garden of Gethsemane. He suffered immense physical pain as a result, but we must believe that he does not still carry it with him. He has access to some sort of friction that disspates momentum.
-
-The danger, I fear, is that we see the Atonement as too magical, something like this:
+Another danger is that we see the Atonement as too magical, something like this:
 
 ![](http://stream1.gifsoup.com/view1/4672096/matrix-bullet-stop-o.gif)
 
-rather than this:
+Even Christ did not do this. He certainly took the world's pain on himself, but we must believe that he does not still carry it with him. He has access to some sort of friction that disspates momentum.
 
-[image of ball rolling to a stop]
 
 When we figure out how to generate friction, to slow the pain of ourselves and others to a stop, I have a sense *that* is truly particpating in Christ's atonement.
