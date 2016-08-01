@@ -56,7 +56,7 @@ As we seek to "mourn with those that mourn, and comfort those that stand in need
 
 #### Being a billiard ball
 
-![](https://media.giphy.com/media/LTxw41oXJf9e0/giphy.gif)
+![](http://i.imgur.com/JcdXl1U.gif)
 
 One of these rocky shores, on which our ship can wreck, is where we simply position ourselves as billiard balls in the triangle. 
 
