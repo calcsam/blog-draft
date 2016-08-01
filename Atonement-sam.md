@@ -68,7 +68,9 @@ At the other edge of the channel, we wreck others when we see the Atonement, the
 
 ![](http://stream1.gifsoup.com/view1/4672096/matrix-bullet-stop-o.gif)
 
-Christ did not do this. He did not simply stop it in its tracks. He did not simply put upon iron walls around the pain of the world, perfectly insulating himself from it. Christ "suffer[ed] pains and afflictions and temptations of every kind" in order to "take upon him the pains and the sicknesses of his people."
+Christ did not do this. 
+
+He did not simply stop it in its tracks. He did not simply put upon iron walls around the pain of the world, perfectly insulating himself from it. Christ "suffer[ed] pains and afflictions and temptations of every kind" in order to "take upon him the pains and the sicknesses of his people." (Alma 7:11)
 
 After his infant son died, Rabbi Harold Kushner found that many people would come to him and say, well-meaning, lines like "I'm sure he's happier now." Some of us, when we see a misfortune befall a friend, immediately jump to find the cause in something they did.
 
